@@ -3,6 +3,6 @@
 	url = https://github.com/FreddieMercurial/BlazorWasmFirebaseAuth.git
 	branch = main
 [submodule "src/firebase-js"]
-	path = src/firebase-js
+	path = src/firebaseJs
 	url = https://github.com/FreddieMercurial/BlazorWasmFirebaseAuthJs.git
 	branch = main
